@@ -1,54 +1,71 @@
 [
   {
-    "event": "Liga MX: Atlas vs. Juarez",
-    "subitems": [
-      {
-        "title": "TVCalidad 720p",
-        "url": "https://forlessmake.store/sawlive.html?get=https://voodc.com/embed/858a93879b878895879983879a9098858995.html"
-      }
-    ],
-    "time": "05:10"
+    "event": "Liga MX: Atl\u00e9tico San Luis vs. Am\u00e9rica",
+    "subitems": [],
+    "time": "01:00"
   },
   {
-    "event": "Copa Am\u00e9rica 2024: Venezuela vs. Canad\u00e1",
+    "event": "Liga MX: Tigres UANL vs. Necaxa",
+    "subitems": [],
+    "time": "03:00"
+  },
+  {
+    "event": "Liga MX: Guadalajara vs. Toluca",
+    "subitems": [],
+    "time": "03:00"
+  },
+  {
+    "event": "Liga MX: Cruz Azul vs. Mazatl\u00e1n",
+    "subitems": [],
+    "time": "05:00"
+  },
+  {
+    "event": "Eurocopa 2024: Inglaterra vs. Suiza (Cuartos de Final)",
+    "subitems": [],
+    "time": "18:00"
+  },
+  {
+    "event": "Eurocopa 2024: Pa\u00edses Bajos vs. Turqu\u00eda (Cuartos de Final)",
+    "subitems": [],
+    "time": "21:00"
+  },
+  {
+    "event": "Copa Am\u00e9rica 2024: Colombia vs. Panam\u00e1 (Cuartos de Final)",
+    "subitems": [],
+    "time": "00:00"
+  },
+  {
+    "event": "Copa Am\u00e9rica 2024: Uruguay vs. Brasil (Cuartos de Final)",
+    "subitems": [],
+    "time": "03:00"
+  },
+  {
+    "event": "Tour de Francia: Etapa #8",
     "subitems": [
       {
-        "title": "DsportsCalidad 720p",
-        "url": "/en-directo/dsports-en-vivo-por-internet"
+        "title": "ESPNCalidad 720p",
+        "url": "/en-directo/espn-en-vivo-por-internet"
       },
       {
-        "title": "Univision USACalidad 720p",
-        "url": "https://streamtp.live/global1.php?stream=eventos2"
-      },
-      {
-        "title": "AZTECA 7 MX (VPN)Calidad 720p",
-        "url": "https://forlessmake.store/cobo.html?id=AZTECA_7_VPN"
-      },
-      {
-        "title": "Canal 5 MX (VPN)Calidad 720p",
-        "url": "https://forlessmake.store/cobo.html?id=CANAL_5_MX_VPN"
-      },
-      {
-        "title": "Canal 5 MX (Global)Calidad 720p",
-        "url": "https://streamtp.live/global1.php?stream=eventos8"
-      },
-      {
-        "title": "Azteca 7 MX (Global)Calidad 720p",
-        "url": "https://streamtp.live/global1.php?stream=eventos3"
-      },
-      {
-        "title": "TVCalidad 720p",
-        "url": "https://forlessmake.store/sawlive.html?get=https://voodc.com/embed/858a93879b868a9787998387988d98858795.html"
-      },
-      {
-        "title": "TVCalidad 720p",
-        "url": "https://forlessmake.store/sawlive.html?get=https://voodc.com/embed/858a93879b868a9787998387988e98858792.html"
-      },
-      {
-        "title": "TVCalidad 720p",
-        "url": "https://forlessmake.store/sawlive.html?get=https://voodc.com/embed/858a93879b868a9787998387989098858794.html"
+        "title": "Caracol TVCalidad 720p",
+        "url": "https://streamtp.live/global1.php?stream=eventos4"
       }
     ],
-    "time": "03:00"
+    "time": "13:00"
+  },
+  {
+    "event": "Amistoso: Alianza Lima vs. Sport Boys",
+    "subitems": [],
+    "time": "22:30"
+  },
+  {
+    "event": "Brasileir\u00e3o: S\u00e3o Paulo vs. RB Bragantino",
+    "subitems": [],
+    "time": "01:00"
+  },
+  {
+    "event": "Brasileir\u00e3o: Flamengo vs. Cuiab\u00e1",
+    "subitems": [],
+    "time": "01:00"
   }
 ]
